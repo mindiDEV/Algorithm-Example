@@ -1,0 +1,7 @@
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\ShellSort\bin\Debug\ShellSort.exe.config
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\ShellSort\bin\Debug\ShellSort.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\ShellSort\bin\Debug\ShellSort.pdb
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\ShellSort\obj\Debug\ShellSort.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\ShellSort\obj\Debug\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\ShellSort\obj\Debug\ShellSort.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\ShellSort\obj\Debug\ShellSort.pdb

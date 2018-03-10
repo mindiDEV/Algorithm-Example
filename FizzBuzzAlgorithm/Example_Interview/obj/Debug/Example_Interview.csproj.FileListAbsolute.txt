@@ -1,0 +1,7 @@
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Example_Interview\bin\Debug\Example_Interview.exe.config
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Example_Interview\bin\Debug\Example_Interview.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Example_Interview\bin\Debug\Example_Interview.pdb
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Example_Interview\obj\Debug\Example_Interview.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Example_Interview\obj\Debug\Example_Interview.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Example_Interview\obj\Debug\Example_Interview.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Example_Interview\obj\Debug\Example_Interview.pdb

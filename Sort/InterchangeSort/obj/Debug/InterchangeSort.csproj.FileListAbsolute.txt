@@ -1,0 +1,7 @@
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\InterchangeSort\bin\Debug\InterchangeSort.exe.config
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\InterchangeSort\bin\Debug\InterchangeSort.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\InterchangeSort\bin\Debug\InterchangeSort.pdb
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\InterchangeSort\obj\Debug\InterchangeSort.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\InterchangeSort\obj\Debug\InterchangeSort.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\InterchangeSort\obj\Debug\InterchangeSort.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\InterchangeSort\obj\Debug\InterchangeSort.pdb

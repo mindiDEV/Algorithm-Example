@@ -1,0 +1,7 @@
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\BubbleSort\obj\Debug\BubbleSort.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Number\Find-PI-to-the-Nth-Digits\bin\Debug\Find-PI-to-the-Nth-Digits.exe.config
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Number\Find-PI-to-the-Nth-Digits\bin\Debug\Find-PI-to-the-Nth-Digits.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Number\Find-PI-to-the-Nth-Digits\bin\Debug\Find-PI-to-the-Nth-Digits.pdb
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Number\Find-PI-to-the-Nth-Digits\obj\Debug\Find-PI-to-the-Nth-Digits.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Number\Find-PI-to-the-Nth-Digits\obj\Debug\Find-PI-to-the-Nth-Digits.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Number\Find-PI-to-the-Nth-Digits\obj\Debug\Find-PI-to-the-Nth-Digits.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Number\Find-PI-to-the-Nth-Digits\obj\Debug\Find-PI-to-the-Nth-Digits.pdb

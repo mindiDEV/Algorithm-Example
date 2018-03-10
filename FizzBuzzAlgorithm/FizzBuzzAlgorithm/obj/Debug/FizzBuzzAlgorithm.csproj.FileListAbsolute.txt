@@ -1,0 +1,7 @@
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\FizzBuzzAlgorithm\bin\Debug\FizzBuzzAlgorithm.exe.config
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\FizzBuzzAlgorithm\bin\Debug\FizzBuzzAlgorithm.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\FizzBuzzAlgorithm\bin\Debug\FizzBuzzAlgorithm.pdb
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\FizzBuzzAlgorithm\obj\Debug\FizzBuzzAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\FizzBuzzAlgorithm\obj\Debug\FizzBuzzAlgorithm.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\FizzBuzzAlgorithm\obj\Debug\FizzBuzzAlgorithm.pdb
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\FizzBuzzAlgorithm\obj\Debug\FizzBuzzAlgorithm.csprojResolveAssemblyReference.cache

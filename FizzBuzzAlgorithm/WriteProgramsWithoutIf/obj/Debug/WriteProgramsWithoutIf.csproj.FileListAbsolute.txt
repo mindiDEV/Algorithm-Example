@@ -1,0 +1,7 @@
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\WriteProgramsWithoutIf\bin\Debug\WriteProgramsWithoutIf.exe.config
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\WriteProgramsWithoutIf\bin\Debug\WriteProgramsWithoutIf.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\WriteProgramsWithoutIf\bin\Debug\WriteProgramsWithoutIf.pdb
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\WriteProgramsWithoutIf\obj\Debug\WriteProgramsWithoutIf.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\WriteProgramsWithoutIf\obj\Debug\WriteProgramsWithoutIf.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\WriteProgramsWithoutIf\obj\Debug\WriteProgramsWithoutIf.pdb
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\WriteProgramsWithoutIf\obj\Debug\WriteProgramsWithoutIf.csprojResolveAssemblyReference.cache

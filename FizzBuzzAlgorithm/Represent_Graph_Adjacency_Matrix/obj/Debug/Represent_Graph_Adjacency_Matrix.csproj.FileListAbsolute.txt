@@ -1,0 +1,7 @@
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Represent_Graph_Adjacency_Matrix\bin\Debug\Represent_Graph_Adjacency_Matrix.exe.config
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Represent_Graph_Adjacency_Matrix\bin\Debug\Represent_Graph_Adjacency_Matrix.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Represent_Graph_Adjacency_Matrix\bin\Debug\Represent_Graph_Adjacency_Matrix.pdb
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Represent_Graph_Adjacency_Matrix\obj\Debug\Represent_Graph_Adjacency_Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Represent_Graph_Adjacency_Matrix\obj\Debug\Represent_Graph_Adjacency_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Represent_Graph_Adjacency_Matrix\obj\Debug\Represent_Graph_Adjacency_Matrix.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\FizzBuzzAlgorithm\Represent_Graph_Adjacency_Matrix\obj\Debug\Represent_Graph_Adjacency_Matrix.pdb

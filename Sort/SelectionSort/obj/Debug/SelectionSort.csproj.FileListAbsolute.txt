@@ -1,0 +1,7 @@
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Windows 10\OneDrive\Algorithm_Example\Sort\SelectionSort\obj\Debug\SelectionSort.pdb

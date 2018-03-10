@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find-PI-to-the-Nth-Digits", "Find-PI-to-the-Nth-Digits\Find-PI-to-the-Nth-Digits.csproj", "{D28CFCB0-FF49-4B61-8497-FBD3BA43D05F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate_Factorial", "Calculate_Factorial\Calculate_Factorial.csproj", "{0BDCDA01-D212-4BB8-A94F-153403F78B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28CFCB0-FF49-4B61-8497-FBD3BA43D05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28CFCB0-FF49-4B61-8497-FBD3BA43D05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28CFCB0-FF49-4B61-8497-FBD3BA43D05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28CFCB0-FF49-4B61-8497-FBD3BA43D05F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BDCDA01-D212-4BB8-A94F-153403F78B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDCDA01-D212-4BB8-A94F-153403F78B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDCDA01-D212-4BB8-A94F-153403F78B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDCDA01-D212-4BB8-A94F-153403F78B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {319FFA4F-2D27-49D5-B86B-BFF066B06FF0}
+	EndGlobalSection
+EndGlobal
